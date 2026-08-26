@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="retry">Retry</string>
+    <string name="album_id_format">Album #%1$d</string>
+    <string name="item_id_format">Item #%1$d</string>
+    <string name="content_description_favorite">Favorite</string>
+</resources>

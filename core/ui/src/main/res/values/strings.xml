@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_unauthorized">Session expired. Please log in again.</string>
+    <string name="error_forbidden">Access denied.</string>
+    <string name="error_not_found">Requested content could not be found.</string>
+    <string name="error_range_not_satisfiable">Requested range not satisfiable.</string>
+    <string name="error_too_many_requests">Too many requests. Please try again later.</string>
+    <string name="error_server">A server error occurred. Please try again.</string>
+    <string name="error_no_internet">No internet connection. Please check your network.</string>
+    <string name="error_timeout">Request timed out. Please try again.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+    <string name="error_database">An unexpected error occurred.</string>
+</resources>
